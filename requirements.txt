@@ -1,0 +1,4 @@
+stevedore==0.15
+virtualenv==1.11.5
+virtualenv-clone==0.2.5
+virtualenvwrapper==4.2
